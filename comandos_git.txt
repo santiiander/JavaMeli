@@ -1,0 +1,10 @@
+//conexion git
+git init //crea repositorio LOCAL (LOCAL X2)
+git config user.name "minombre_en_git" //configuramos los datos de usuario de git para el repo
+git config user.email "mimail" //configuramos el mail
+git remote add origin "url repo" //conectamos nuestro repositorio local al remoto
+//archivos
+git add . //agrega toos los cambios al repo local
+git add "archivo" //agrega solo ese archivo
+git commit -m "mensaje" //subimos al stage los archivos con un mensaje para diferenciarlos en caso de back
+git push origin main //manda los cambios al repo remoto

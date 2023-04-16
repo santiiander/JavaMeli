@@ -1,0 +1,9 @@
+//comandos consola para manejo de archivo
+cd .. //retroceder de carpeta
+cd nombre-carpeta //acceder a una carpeta
+mkdir nombre-carpeta //crear carpeta
+rm archivo //lo elimina
+mv nombre1 nombre2 //cambia nombre de un archivo
+ls /dir //muestra los archivos de una carpeta
+touch archivo //crea un archivo de texto
+clear/cls //limpia la terminal
